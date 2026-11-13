@@ -1,16 +1,25 @@
 # E-Commerce App
 
-Full-stack E-Commerce web application built with Java, Spring Boot, MySQL and React.
+A full-featured online shopping application for browsing products, managing cart, and placing orders.
 
 ## Features
-- User Registration & Login
-- Product Listing with Search & Filter
+- Product Listing & Search
+- Product Details with Images & Price
 - Add to Cart & Wishlist
-- Order Management
-- Admin Dashboard to Manage Products
+- User Registration & Login
+- Order Placement & Order History
+- Admin Panel to Manage Products & Orders
 
 ## Tech Stack
 - Backend: Java, Spring Boot, REST API
-- Frontend: React, HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript
 - Database: MySQL
 - Tools: Git, GitHub, Postman
+
+## How It Works
+1. User registers and logs in
+2. Browses products by category and search
+3. Adds products to cart / wishlist
+4. Places order with address and payment
+5. Views order history and tracks order
+6. Admin adds, updates and manages products
